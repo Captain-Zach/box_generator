@@ -1,0 +1,30 @@
+.box_container{
+    display: inline-block;
+}
+.red_square {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.blue_square {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.char_square {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: chartreuse;
+}
+
+.black_square {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
